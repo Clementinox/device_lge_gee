@@ -1,0 +1,14 @@
+[
+{
+"repository": "Clementinox/kernel_lge_geeb",
+"target_path": "kernel/lge/gee"
+},
+{
+"repository": "Clementinox/device_lge_gee-common",
+"target_path": "device/lge/gee-common"
+},
+{
+"repository": "Clementinox/device_lge_geeb",
+"target_path": "device/lge/geeb"
+}
+]
